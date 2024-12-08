@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    gap:0.5vw;
+}
+.login,.signup{
+ /* padding:10px;
+ border:1px solid white ; */
+ font-size: 1.2rem;
+ padding: 8px 16px;
+ border-radius: 10px;
+ transition: all 0.5s ease-in-out;
+ cursor:pointer;
+
+}
+.login:hover,.signup:hover{
+    /* border:1px solid black;
+    box-shadow: 1px 1px 1px 1px rgba(40, 12, 12, 0.74);
+    border-radius: 12px;
+    animation: hoverEffect  2s ease; */
+    box-shadow: 0px 0px 10px gray;
+
+
+}

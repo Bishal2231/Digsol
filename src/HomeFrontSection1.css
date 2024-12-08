@@ -1,0 +1,7 @@
+.frontpageHome{
+    display: flex;
+    justify-content: space-between;
+    height:100vh;
+    width:80vw;
+    align-items: center;
+}

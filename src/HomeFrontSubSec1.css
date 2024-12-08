@@ -1,0 +1,27 @@
+.container1{
+    display: flex;
+    flex-direction: column;
+    width:40vw;
+    gap:1.4rem;
+}
+.subtitle{
+    font-weight: bold;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width:100%;
+    font-size: 0.8rem;
+
+}
+.subtitlemiddle{
+
+    font-weight:bold;
+    font-size:2.2rem; 
+}
+.subtitlelast{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width:100%;
+    font-size: 1rem;
+}

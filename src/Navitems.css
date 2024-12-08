@@ -1,0 +1,13 @@
+.service,.contact,.portfolio{
+    font-size: 1.2rem;
+    padding: 8px 16px;
+    border-radius: 10px;
+    transition: all 0.5s ease-in-out;
+    cursor:pointer;
+   
+}   
+.service:hover,.contact:hover,.portfolio:hover{
+    box-shadow: 0px 0px 10px gray;
+
+
+}
