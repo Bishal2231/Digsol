@@ -1,0 +1,19 @@
+.img{
+    border-radius:50%;
+    height: 370px;
+    width: 380px;
+   box-shadow: 0px 0px 30px gray;
+}
+@media (max-width: 656px) {
+    .img {
+        height: 145px;
+        width: 150px;
+    }
+}
+
+@media (max-width: 879px) {
+    .img {
+        height: 290px;
+        width: 300px;
+    }
+}

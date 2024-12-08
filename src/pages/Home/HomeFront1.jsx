@@ -10,5 +10,6 @@ export default function HomeFrontSection1(){
         
         
         </div>
+     
     )
 }

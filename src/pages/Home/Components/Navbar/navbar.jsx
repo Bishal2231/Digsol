@@ -1,4 +1,4 @@
-import {Logo} from "./logo.jsx"
+import {Logo} from "../../logo.jsx"
 import Navitems from "./Nav-items.jsx"
 import Login from "./Login.jsx"
 import "./navbar.css"

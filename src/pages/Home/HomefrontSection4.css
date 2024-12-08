@@ -1,0 +1,22 @@
+.main-cont-last{
+    margin-top: 220px;
+    display: flex;
+    justify-content: space-around;
+    /* height:90vh; */
+}
+.firstcolumn-title,.title-second,.title-third,.title-fourth{
+    font-weight: bold;
+}
+li{
+    list-style: none;
+    margin:15px;
+}
+.title-fourth-list li img{
+    height:94px;
+    width:124px  ;
+
+}
+a{
+    text-decoration: none;
+    color:grey
+}

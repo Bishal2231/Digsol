@@ -1,0 +1,47 @@
+
+
+.secondpage{
+    display:flex;
+    flex-direction: column;
+    height:100vh;
+}
+
+.main-second{
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width:100%; */
+    display: flex;
+    justify-content: space-between;
+    width:90%;
+    align-items: center;
+    margin:80px;
+}
+
+.img {
+    height: 450px;
+    width: 450px;
+    background-image: url(/images/secondHero.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+@media (max-width: 993px) {
+    .img {
+        height: 250px;
+        width: 250px;
+    }
+}
+.img-description{
+    width:50%;
+}
+.titlefirst{
+    font-weight: bold;
+}
+.titlesecond{
+    font-weight: bold;
+    font-size: 2.5rem;
+
+}
